@@ -1,5 +1,7 @@
-Nagios Installation Script
-Overview
+**Nagios Installation Script**
+
+_Overview_
+
 This repository contains a bash script, nagiosinstallation.sh, designed to automate the installation and configuration of Nagios—a powerful monitoring system that provides comprehensive network and system monitoring. This script streamlines the setup process, reducing manual steps and ensuring consistency in installations.
 
 Prerequisites

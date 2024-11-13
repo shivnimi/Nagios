@@ -29,7 +29,9 @@ Usage
 Clone this repository or download the nagiosinstallation.sh script directly:
 
 git clone https://github.com/shivnimi/nagiosinstallation
+
 cd nagiosinstallation
+
 2. Run the Script
 Make sure the script has execution permissions:
 
@@ -37,6 +39,8 @@ chmod +x nagiosinstallation.sh
 Run the script with sudo privileges:
 
 sudo ./nagiosinstallation.sh
+
+
 3. Access Nagios
 Once the script completes, open a web browser and navigate to:
 
